@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="693435f7-212f-49b2-a8fb-d27234e8d17a" name="Changes" comment="" />
+    <list default="true" id="693435f7-212f-49b2-a8fb-d27234e8d17a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestException">
     <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="module0" />
@@ -49,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestException" />
+      <module name="module0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestException" />
         <item itemvalue="Application.CharCount" />
       </list>
     </recent_temporary>
