@@ -14,7 +14,7 @@ public class CharCount {
             for (int j=0; j<B.length; j++) {
                 if (A[i] == B[j]) {
                     count ++;
-                    System.out.println(A[i]);
+                    //System.out.println(A[i]);
                     break;
                 }
             }
