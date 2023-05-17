@@ -85,9 +85,11 @@ public class CharCount3 {
                 }
             }
         }
+        /*
         for (int i=0; i<onlyInA.size(); i++) {
             System.out.println(onlyInA.get(i));
         }
+        */
         return onlyInA.size();
     }
 }
